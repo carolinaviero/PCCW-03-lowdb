@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "White t-shirt",
+      "description": "The nicest t-shirt you've ever seen",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "title": "Pen",
+      "description": "Blue pen",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "title": "Bottle of water",
+      "description": "sealed bottle of water",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "title": "monocycle",
+      "description": "bycicle but with only one wheel",
+      "price": 1
+    },
+    {
+      "id": 5,
+      "title": "airpods ",
+      "description": "amazing airpods",
+      "price": 400
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "carolina@viero.com",
+      "password": "mypassword"
+    },
+    {
+      "id": 2,
+      "password": "$2b$10$goMB.9OyotHwAC0NzFl7i.R9s.OWD6J95LDZfUeV6zIzDRwWyZjBi",
+      "email": "elton@john.com"
+    },
+    {
+      "id": 3,
+      "password": "$2b$10$3OijvvS4c.FcA4rB5qg/peeTW8ephVW5tU9gurfnjZJ9t5Pt6Baj2",
+      "email": "beyonce@beyonce.com"
+    }
+  ]
+}
