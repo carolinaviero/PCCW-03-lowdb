@@ -29,6 +29,12 @@
       "title": "airpods ",
       "description": "amazing airpods",
       "price": 400
+    },
+    {
+      "id": 6,
+      "title": "charger",
+      "description": "macbook charger",
+      "price": 30
     }
   ],
   "users": [
